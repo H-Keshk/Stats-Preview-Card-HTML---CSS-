@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
-
+- Solution URL: [https://github.com/H-Keshk/Stats-Preview-Card-HTML---CSS-]
+- Live Site URL: [https://h-keshk.github.io/Stats-Preview-Card-HTML---CSS-/]
+  
 ## Author
 
 - Frontend Mentor - [@H-Keshk](https://www.frontendmentor.io/profile/H-Keshk)
